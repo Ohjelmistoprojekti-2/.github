@@ -1,23 +1,4 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -88,7 +69,7 @@ Backend works on Heroku so you dont need to run it on your device if you dont wa
    ```sh
    npm install
    ```
-3. (Optional) Install Backend packages from requiremenets.txt file
+3. Install Backend packages from requiremenets.txt file
    ```sh
    pip install -r requirements.txt
    ```
@@ -104,12 +85,14 @@ Backend works on Heroku so you dont need to run it on your device if you dont wa
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+<h3>Basic usage of the application</h3>
+
 
 <img src="etusivu.png" alt="Logo">
 <p>Here you can choose keywords to filter out jobpostings</p>
 
 <img src="tallennus.png" alt="Logo">
-<p>If you are running this application in your emulator / mobile device, you can save your keywords to your devicememory</p>
+<p>If you are running this application in your emulator / mobile device, you can save your keywords to your device memory</p>
 
 <img src="tulokset.png" alt="Logo">
 <p>In the Job results tab you can see all the results from your search conditios</p>
@@ -121,16 +104,11 @@ Backend works on Heroku so you dont need to run it on your device if you dont wa
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Helpful recourses
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [React Native Paper](https://reactnativepaper.com/)
+* [React Native Elements](https://reactnativeelements.com/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
