@@ -26,16 +26,15 @@
 <h3 align="center">TyönhakuAppi</h3>
 
 <p align="center">
-    Project created part of Ohjelmistoprojekti 2 - course
-    This Readme file serves two repositories: Frontend and Backend
+    Project created part of Ohjelmistoprojekti 2 - course <br />
+
+  <p>This Readme file serves two repositories: Frontend and Backend</p>
 <br />
 </p>
 </div>
 
 ## Project team
   <p>Juho Rissanen, Aleksi Saarinen, Tia Venäläinen, Jasmin Lumme & Elisa Tuovila</p>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
