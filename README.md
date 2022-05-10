@@ -106,25 +106,30 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+If you want to run this application on your phone you should have expo application installed on your mobile device.
+You can also run this application on web or emulator.
+Backend works on Heroku so you dont need to run it on your device if you dont want
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repos
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Ohjelmistoprojekti-2/Frontend.git
+   git clone https://github.com/Ohjelmistoprojekti-2/Backend.git
    ```
-3. Install NPM packages
+2. Install Frontend packages
    ```sh
    npm install
    ```
+3. (Optional) Install Backend packages from requiremenets.txt file
+   ```sh
+   pip install -r requirements.txt
+   ```
+4. To launch the program => In your Frontend root
+   ```sh
+   expo start => Follow options from terminal to launch in web / mobile / emulator
+   ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
