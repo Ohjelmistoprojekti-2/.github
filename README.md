@@ -28,6 +28,7 @@
 <p align="center">
     Project created part of Ohjelmistoprojekti 2 - course
     This Readme file serves two repositories: Frontend and Backend
+    Project team: Juho Rissanen, Aleksi Saarinen, Tia Venäläinen, Jasmin Lumme & Elisa Tuovila
 <br />
 </p>
 </div>
@@ -101,6 +102,7 @@ Backend works on Heroku so you dont need to run it on your device if you dont wa
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
 
 <img src="etusivu.png" alt="Logo">
 <p>Here you can choose keywords to filter out jobpostings</p>
