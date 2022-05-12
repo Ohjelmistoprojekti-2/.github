@@ -7,7 +7,7 @@
 <h3 align="center">TyönhakuAppi</h3>
 
 <p align="center">
-    Project created part of Ohjelmistoprojekti 2 - course <br />
+    Project created part of Ohjelmistoprojekti II - course <br />
 
   <p>This Readme file serves two repositories: Frontend and Backend</p>
 <br />
@@ -50,7 +50,7 @@ DuuniApp utilizes Scrapy to gather data about available job positions from diffe
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
@@ -111,5 +111,3 @@ Helpful recourses
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
