@@ -88,13 +88,13 @@ Backend works on Heroku so you dont need to run it on your device if you dont wa
 <h3>Basic usage of the application</h3>
 
 
-<img src="etusivu.png" alt="Logo">
+<img src="./profile/etusivu.png" alt="Logo">
 <p>Here you can choose keywords to filter out jobpostings</p>
 
-<img src="tallennus.png" alt="Logo">
+<img src="./profile/tallennus.png" alt="Logo">
 <p>If you are running this application in your emulator / mobile device, you can save your keywords to your device memory</p>
 
-<img src="tulokset.png" alt="Logo">
+<img src="./profile/tulokset.png" alt="Logo">
 <p>In the Job results tab you can see all the results from your search conditios</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
