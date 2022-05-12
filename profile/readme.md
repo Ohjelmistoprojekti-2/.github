@@ -43,7 +43,7 @@ DuuniApp utilizes Scrapy to gather data about available job positions from diffe
 
 
 
-<img src="kaavio.png" alt="Logo">
+<img src="./kaavio.png" alt="Logo">
 
 
 
